@@ -194,10 +194,6 @@ async function starts() {
 				case 'menu':
 					client.sendMessage(from, help(prefix), text)
 					break
-				case 'bocchigroup':
-				case 'bocchigc':
-					client.sendMessage(from, `https://chat.whatsapp.com/Hw9dlv4aZcr6hdSCI4XhDh\n\nNih kak link groupnya, jangan lupa masuk ya kak ><`, text)
-					break
                 case 'bahasa':
 		client.sendMessage(from, bahasa(prefix, sender), text, {quoted: mek})
                 break
