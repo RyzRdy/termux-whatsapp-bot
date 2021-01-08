@@ -21,6 +21,7 @@
 
 <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 <details>
+
 ## Social Media
 
 * [Instagram](https://Instagram.com/nazwa.salsa_ig)
