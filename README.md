@@ -22,9 +22,9 @@
 <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 <details>
 
-## Social Media
+<summary>🍙 Help me!</summary>
 
-* [Instagram](https://Instagram.com/nazwa.salsa_ig)
+* [Saweria](https://saweria.co/nazwas)
 </details>
 
 ## Tools
@@ -38,13 +38,13 @@
 ---
 
 ## Information
-- Change vcard contacts name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L33
-- Change vcard bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L34
-- Change vcard WhatsApp id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L35
-- Change vcard WhatsApp number on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L35
-- Change bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L41
-- Change owner name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L42
-- Change owner number id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L153
+- Change vcard contacts name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L33)
+- Change vcard bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L34)
+- Change vcard WhatsApp id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L35)
+- Change vcard WhatsApp number on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L35)
+- Change bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L41)
+- Change owner name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L42)
+- Change owner number id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L153)
 
 ---
 
@@ -68,4 +68,110 @@ Follow The Steps Below!
 
 ## Features
 
-|
+|  MAKER  |                                           YES |
+| :---------------------------------------------: | :-----------: |
+| Sticker Maker|✅|
+| Sticker Gif Maker|✅|
+| Convert Sticker To Image|✅|
+| Convert Video To MP3|✅|
+| Black Pink Logo Maker|✅|
+| 3D Text Maker|✅|
+| Quote Maker|✅|
+
+| MEDIA | YES |
+| :-----------------: | :-------: |
+| Trend Twit|✅|
+| YT Search|✅|
+
+| EDUCATION | YES |
+| :-----------------: | :-------: |
+| The Meaning Of The Name|✅|
+
+| ASK | YES |
+| :-----------------: | :-------: |
+| Apakah|✅|
+| Kapankah|✅|
+| Bisakah|✅|
+
+| DOWNLOADER | YES |
+| :-----------------: | :-------: |
+| Pinterest Downloader|✅|
+| Ytmp3 Downloader|✅|
+| Ytmp4 Downloader|✅|
+| Joox Downloader|✅|
+
+| MEME | YES |
+| :-----------------: | :-------: |
+| Meme|✅|
+| Meme Indo|✅|
+
+| GROUP | YES |
+| :-----------------: | :-------: |
+| Open Group|✅|
+| Close Group|✅|
+| Promote Member|✅|
+| Demote Member|✅|
+| Hide Tag|✅|
+| Tag All Members|✅|
+| Tag All Members2|✅|
+| Tag All Members3|✅|
+| Tag All Members4|✅|
+| Tag All Members5|✅|
+| Add Member|✅|
+| Kick Member|✅|
+| Show List Admins|✅|
+| Leave Group|✅|
+| Show Owner Group|✅|
+
+| SOUND | YES |
+| :-----------------: | :-------: |
+| Text To Speach|✅|
+
+| MUSIC | YES |
+| :-----------------: | :-------: |
+| Music Lyrics|✅|
+| Chord Guitar|✅|
+
+| ISLAM | YES |
+| :-----------------: | :-------: |
+| Qur'an|✅|
+
+| STALK | YES |
+| :-----------------: | :-------: |
+| Instagram Stalk|✅|
+
+| WIBU | YES |
+| :-----------------: | :-------: |
+| Neonime|✅|
+| Pokemon|✅|
+| Nekonime|✅|
+
+| FUN | YES |
+| :-----------------: | :-------: |
+| Alay|✅|
+| Glitch|✅|
+
+| INFORMATION | YES |
+| :-----------------: | :-------: |
+| List Bahasa|✅|
+| List Kode Negara|✅|
+| KBBI|✅|
+| Covid|✅|
+
+| OWNER | YES |
+| :-----------------: | :-------: |
+| Set Prefix|✅|
+| Block Member|✅|
+| Broadcast|✅|
+| Group Broadcast|✅|
+| Clear All Chat|✅|
+
+| OTHER | YES |
+| :-----------------: | :-------: |
+| Send|✅|
+| WaMe|✅|
+| Virtex|✅|
+| Exe|✅|
+| QrCode|✅|
+| Quotes|✅|
+| Fml|✅|
