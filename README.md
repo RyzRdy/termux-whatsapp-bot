@@ -38,13 +38,13 @@
 ---
 
 ## Information
-- Change vcard contacts name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L33)
-- Change vcard bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L34)
-- Change vcard WhatsApp id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L35)
-- Change vcard WhatsApp number on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L35)
-- Change bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L41)
-- Change owner name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L42)
-- Change owner number id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/index.js#L153)
+- Change vcard contacts name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L33)
+- Change vcard bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L34)
+- Change vcard WhatsApp id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
+- Change vcard WhatsApp number on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
+- Change bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L41)
+- Change owner name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L42)
+- Change owner number id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L153)
 
 ---
 
