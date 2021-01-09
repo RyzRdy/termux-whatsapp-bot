@@ -175,3 +175,7 @@ Follow The Steps Below!
 | QrCode|✅|
 | Quotes|✅|
 | Fml|✅|
+
+---
+
+<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/tenor.gif">
